@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "DaikinCloud",
+  "pluginAlias": "daikincloudfs",
   "pluginType": "platform",
   "singular": true,
   "schema": {
